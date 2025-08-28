@@ -15,6 +15,8 @@ cell shape index.
 
 
 I also used another programme written in MATLAB which uses Bayesian Force Inference to infer tension and pressure in cells (https://www.nature.com/articles/s41598-019-50690-3).
+
+
 <img width="482" height="292" alt="Screenshot 2025-08-28 4 09 16 PM" src="https://github.com/user-attachments/assets/c10d284e-e139-44f5-8663-ce5c6e4531e3" />
 
 I have also written another image analysis programme in python to analyse RNAscope dual colour data. I segmented cells and selected nuclei positive for CD31 to select endothelial cells and then 
