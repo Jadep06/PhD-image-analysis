@@ -22,3 +22,8 @@ I also used another programme written in MATLAB which uses Bayesian Force Infere
 I have also written another image analysis programme in python to analyse RNAscope dual colour data. I segmented cells and selected nuclei positive for CD31 to select endothelial cells and then 
 measured the amount of Piezo1 RNA detected in these cells (rnascope analysis.ipynb).
 
+<img width="1172" height="451" alt="Screenshot 2025-08-28 4 13 17 PM" src="https://github.com/user-attachments/assets/a229132f-07aa-46fc-9348-0fe3a5f680af" />
+
+
+
+
