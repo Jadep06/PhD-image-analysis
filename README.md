@@ -10,8 +10,12 @@ eccentricity- however, this required a large amount of preprocessing by hand. As
 to a MATLAB liscence. Therefore I wrote a python script to perform the same analysis (eccentricity from membrane stain 1.ipynb) and have also written a batch file for analysis of folders
 of images (batch eccentricity processing from membrane stain.ipynb). Using this I was also able to calculate other properties which are indicative of cell forces such as fluidity like
 cell shape index.
+<img width="1156" height="461" alt="Screenshot 2025-08-28 4 08 34 PM" src="https://github.com/user-attachments/assets/646e1b5f-f8de-4af1-be80-872381b2a1ea" />
+<img width="1198" height="374" alt="Screenshot 2025-08-28 4 07 46 PM" src="https://github.com/user-attachments/assets/734a4af7-c286-4def-b781-254d2251edb0" />
+
 
 I also used another programme written in MATLAB which uses Bayesian Force Inference to infer tension and pressure in cells (https://www.nature.com/articles/s41598-019-50690-3).
+<img width="482" height="292" alt="Screenshot 2025-08-28 4 09 16 PM" src="https://github.com/user-attachments/assets/c10d284e-e139-44f5-8663-ce5c6e4531e3" />
 
 I have also written another image analysis programme in python to analyse RNAscope dual colour data. I segmented cells and selected nuclei positive for CD31 to select endothelial cells and then 
 measured the amount of Piezo1 RNA detected in these cells (rnascope analysis.ipynb).
