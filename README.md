@@ -11,7 +11,12 @@ to a MATLAB liscence. Therefore I wrote a python script to perform the same anal
 of images (batch eccentricity processing from membrane stain.ipynb). Using this I was also able to calculate other properties which are indicative of cell forces such as fluidity like
 cell shape index.
 <img width="1156" height="461" alt="Screenshot 2025-08-28 4 08 34 PM" src="https://github.com/user-attachments/assets/646e1b5f-f8de-4af1-be80-872381b2a1ea" />
-<img width="1198" height="374" alt="Screenshot 2025-08-28 4 07 46 PM" src="https://github.com/user-attachments/assets/734a4af7-c286-4def-b781-254d2251edb0" />
+<img width="1196" height="350" alt="Screenshot 2025-08-29 2 42 48 PM" src="https://github.com/user-attachments/assets/8ced7c91-21e9-42de-92e4-32d2d022882e" />
+<img width="1195" height="372" alt="Screenshot 2025-08-29 2 43 10 PM" src="https://github.com/user-attachments/assets/61d40295-b0f1-43eb-b1ad-3ee54b7c72f7" />
+
+
+
+
 
 
 I also used another programme written in MATLAB which uses Bayesian Force Inference to infer tension and pressure in cells (https://www.nature.com/articles/s41598-019-50690-3).
