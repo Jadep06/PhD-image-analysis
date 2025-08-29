@@ -8,9 +8,12 @@ cell morphology as a readout of changes in cell mechanical state as there is a s
 Originally I was using a programme in MATLAB called deproj (https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01037-w) to perform an analysis of cell morphology including 
 eccentricity- however, this required a large amount of preprocessing by hand. As it is in MATLAB it was also not able to be used by members of my research group who do not have access 
 to a MATLAB liscence. Therefore I wrote a python script to perform the same analysis (eccentricity from membrane stain 1.ipynb) and have also written a batch file for analysis of folders
-of images (batch eccentricity processing from membrane stain.ipynb). Using this I was also able to calculate other properties which are indicative of cell forces such as fluidity like
-cell shape index.
-<img width="1156" height="461" alt="Screenshot 2025-08-28 4 08 34 PM" src="https://github.com/user-attachments/assets/646e1b5f-f8de-4af1-be80-872381b2a1ea" />
+of images (batch eccentricity processing from membrane stain.ipynb). Using this I was also able to calculate other properties which are indicative of cell forces such as fluidity like cell shape index.
+
+<img width="1081" height="452" alt="Screenshot 2025-08-29 2 44 37 PM" src="https://github.com/user-attachments/assets/4f1311c5-7994-4602-9fe8-593adedd5d7d" />
+
+
+
 <img width="1196" height="350" alt="Screenshot 2025-08-29 2 42 48 PM" src="https://github.com/user-attachments/assets/8ced7c91-21e9-42de-92e4-32d2d022882e" />
 <img width="1195" height="372" alt="Screenshot 2025-08-29 2 43 10 PM" src="https://github.com/user-attachments/assets/61d40295-b0f1-43eb-b1ad-3ee54b7c72f7" />
 
